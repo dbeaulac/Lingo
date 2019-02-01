@@ -34,3 +34,6 @@ C:\Users\Daniel\Dropbox\Programs\lingo\lingo\bin\Debug\lingo.xml
 C:\Users\Daniel\Dropbox\Programs\lingo\lingo\obj\x86\Debug\lingo.frmLingo.resources
 C:\Users\Daniel\Dropbox\Programs\lingo\lingo\obj\x86\Debug\lingo.Resources.resources
 C:\Users\Daniel\Dropbox\Programs\lingo\lingo\obj\x86\Debug\lingo.vbproj.GenerateResource.Cache
+C:\Users\Daniel\Dropbox\Programs\lingo\lingo\lingo\obj\x86\Debug\lingo.exe
+C:\Users\Daniel\Dropbox\Programs\lingo\lingo\lingo\obj\x86\Debug\lingo.xml
+C:\Users\Daniel\Dropbox\Programs\lingo\lingo\lingo\obj\x86\Debug\lingo.pdb
